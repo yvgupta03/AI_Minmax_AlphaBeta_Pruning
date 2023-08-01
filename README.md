@@ -7,7 +7,7 @@ Refer to Project description pdf file for detailed understanding of problem stat
 
 There are different utilities for each cell of the grid based on its color. The cheapest is white, green is expensive and red is basically death zone (or infinite cost). This project aims to study which search technique finds the best path with most reasonable search cost for finite cliff-walker grid, given a start and destination locations. 
 
-Also, there are 2 agents, blue and red. Blue wants to reach the goal location (bottom most right) but Red will try its best to stop this from happening. PART
+Also, there are 2 agents, blue and red. Blue wants to reach the goal location (bottom most right) but Red will try its best to stop this from happening.
 
 The results have been visualized at the end of each notebook and Alpha-Beta technique is the best performing heuristic that is reliable enough for such problems.
 All 3 parts as per project decription pdf file are implemented in separate python notebooks (folders Part A, Part B, Part C) in python notebooks folder.
